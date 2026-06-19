@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Srasti123/LeetCode_Practice/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Srasti123/LeetCode_Practice/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/Srasti123/LeetCode_Practice/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Srasti123/LeetCode_Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/Srasti123/LeetCode_Practice/tree/main/0724-find-pivot-index/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Srasti123/LeetCode_Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
